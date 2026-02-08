@@ -5,7 +5,7 @@ This repository contains all tasks completed for the CODSOFT Web Development Int
 ## Tasks
 - Task 1: Basic Calculator (HTML, CSS, JavaScript)
 - Task 2: Personal Portfolio Website
--
+
 
 ## Technologies Used
 - HTML
